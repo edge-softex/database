@@ -1,4 +1,0 @@
-"TOA5","6428","CR1000","6428","CR1000.Std.10","CPU:MED_RAD.CR1","55978","Dados"
-"TIMESTAMP","Radiacao_Avg","Temp_Cel_Avg","Temp_Amb_Avg","Tensao_S1_Avg","Corrente_S1_Avg","Potencia_S1_Avg","Tensao_S2_Avg","Corrente_S2_Avg","Potencia_S2_Avg","Potencia_FV_Avg","Demanda_Avg","Excedente_Avg","Compra_Avg","Tensao_Rede_Avg"
-"TS","W/m^2","C","C","V","A","W","V","A","W","W","W","W","W","V"
-"","Avg","Avg","Avg","Avg","Avg","Avg","Avg","Avg","Avg","Avg","Avg","Avg","Avg","Avg"
